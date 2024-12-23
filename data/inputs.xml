@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+    <inputs>
+        <actions>
+            <input name="UAOfferRequestItem" loc="#STR_OFFER_REQUEST_ITEM" />
+            <input name="UAToggelAllowPutInPockets" loc="#STR_TOGGLE_ALLOW_PUT_IN_POCKETS" />
+            <input name="UASchanaAutorunToggle" loc="Autorun Toggle" />
+        </actions>
+    </inputs>
+    <preset>
+        <input name="UASchanaAutorunToggle">
+            <btn name="kAdd" />
+        </input>
+        <input name="UAOfferRequestItem">
+            <btn name="kO" />
+        </input>
+    </preset>
+</modded_inputs>
